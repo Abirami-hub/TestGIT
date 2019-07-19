@@ -1,1 +1,4 @@
 Hello, I'm practicing GIT
+
+Hello, I already practiced
+Hello, I'm practicing... I'm committing for the second time
